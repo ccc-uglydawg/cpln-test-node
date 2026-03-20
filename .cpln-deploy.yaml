@@ -3,7 +3,7 @@ service: .
 cpln:
   org: cpln-git-deploy
   gvc: development
-roles:
+workloads:
   - name: cpln-test-node
     type: web
     workload: cpln-test-node
