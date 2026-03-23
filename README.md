@@ -1,3 +1,3 @@
 # cpln-test-node
 CPLN deploy test: Node.js
-v1
+v2
